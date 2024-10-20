@@ -9,6 +9,31 @@
 <img src="https://github.com/user-attachments/assets/6128e184-6b71-4ba1-90c4-cfbf853deb2e" alt="photo" width="150" height="350"/>
 <img src="https://github.com/user-attachments/assets/a70b4451-198f-41ef-81d0-969c62a2b1bd" alt="photo" width="150" height="350"/>
 <img src="https://github.com/user-attachments/assets/dd118666-b781-4b7a-9b55-8708867b37f1" alt="photo" width="150" height="350"/>
+## Features
+
+### User-Friendly Station Selection
+- **Select Any Station**: Users can easily select from a list of available metro stations.
+
+### Nearest Station Locator
+- **Current Location**: The app shows the nearest station based on the user's current location.
+- **Destination-Based Stations**: Displays the closest stations along the route to the selected destination.
+
+### Route Management
+- **Save Routes**: Users can save their frequently used routes.
+- **Route Details**: Detailed view of saved routes, including time, pricing, and additional information.
+
+### Multilingual Support
+- **Language Options**: The app supports both Arabic and English languages for a wider user base.
+
+### Pricing Information
+- **Metro Ticket Costs**: Provides users with information on metro ticket pricing.
+- **Cost Calculation**: Automatically calculates the cost of the metro fare based on the selected route.
+
+### Metro Operation Schedule
+- **Schedule Access**: Users can view the operational schedule for all metro lines.
+
+### Map Integration
+- **Map Display**: Visual representation of the nearest station according to the user's location on the map.
 ## Dependencies
 
 This project uses the following dependencies:
@@ -59,31 +84,7 @@ This project uses the following dependencies:
 - **Compose Tooling Preview**: `implementation(libs.androidx.ui.tooling.preview)`
 - **Material3**: `implementation(libs.androidx.material3)`
 
-## Features
 
-### User-Friendly Station Selection
-- **Select Any Station**: Users can easily select from a list of available metro stations.
-
-### Nearest Station Locator
-- **Current Location**: The app shows the nearest station based on the user's current location.
-- **Destination-Based Stations**: Displays the closest stations along the route to the selected destination.
-
-### Route Management
-- **Save Routes**: Users can save their frequently used routes.
-- **Route Details**: Detailed view of saved routes, including time, pricing, and additional information.
-
-### Multilingual Support
-- **Language Options**: The app supports both Arabic and English languages for a wider user base.
-
-### Pricing Information
-- **Metro Ticket Costs**: Provides users with information on metro ticket pricing.
-- **Cost Calculation**: Automatically calculates the cost of the metro fare based on the selected route.
-
-### Metro Operation Schedule
-- **Schedule Access**: Users can view the operational schedule for all metro lines.
-
-### Map Integration
-- **Map Display**: Visual representation of the nearest station according to the user's location on the map.
 
 
 
