@@ -12,6 +12,7 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.nativemetrooapp.domain.MapModel
 import com.example.nativemetrooapp.domain.Station
+import com.example.nativemetrooapp.presentation.SplashScreen
 import com.example.nativemetrooapp.presentation.map.MapScreen
 import com.example.nativemetrooapp.presentation.stationsdetails.RouteDetailsScreen
 import com.example.nativemetrooapp.presentation.stationsdetails.StationDetailsScreen
@@ -29,7 +30,10 @@ class MainActivity : ComponentActivity() {
         setContent {
             val navController = rememberNavController()
 
-            NavHost(navController = navController, startDestination = "dashboard") {
+            NavHost(navController = navController, startDestination = "splash") {
+                composable("splash") {
+                    SplashScreen(navController)
+                }
                 composable("dashboard") {
                     DashBoardScreen(navController)
                 }

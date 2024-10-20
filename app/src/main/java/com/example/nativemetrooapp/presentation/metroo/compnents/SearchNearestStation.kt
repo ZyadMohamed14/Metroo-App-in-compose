@@ -12,7 +12,10 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -33,6 +36,7 @@ import com.example.nativemetrooapp.domain.NearstStation
 import com.example.nativemetrooapp.domain.AppResources
 import com.example.nativemetrooapp.helper.RouteHelper
 import com.example.nativemetrooapp.presentation.metroo.LocationViewModel
+import com.example.nativemetrooapp.ui.theme.lightGreen
 
 @SuppressLint("CoroutineCreationDuringComposition")
 @Composable
@@ -65,14 +69,22 @@ fun SearchNearestStation(
             textAlign = TextAlign.Start // Align text to the start
         )
         Spacer(modifier = Modifier.width(8.dp)) // Spacer for width
-        MetrooAppButton(
-            icon = Icons.Filled.Search,
-            label = context.getString(R.string.search), // Replace with your string translation function
-            onPressed = {
-                isDialogOpen.value = true
+        Button(onClick = {  isDialogOpen.value = true  },
+            colors = ButtonDefaults.buttonColors(containerColor = lightGreen ), // Button color
+            shape = androidx.compose.foundation.shape.RoundedCornerShape(16.dp) ,
+            elevation = ButtonDefaults.elevatedButtonElevation(defaultElevation = 4.dp)
+            ) {
 
-            } // Function call for button action
-        )
+            Icon(
+                imageVector =  Icons.Filled.Search,
+                contentDescription = null,
+                tint = Color.White
+            )
+            Spacer(modifier = Modifier.width(4.dp)) // Space between icon and text
+            Text(text = context.getString(R.string.search), color = Color.White)
+        }
+
+
         if (isnearstLocationrequested.value) {
             when (val state = locationState.value) {
                 is AppResources.Error -> {

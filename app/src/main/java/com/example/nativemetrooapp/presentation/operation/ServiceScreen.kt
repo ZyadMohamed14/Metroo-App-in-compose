@@ -61,7 +61,7 @@ fun ServicesScreen() {
         topBar = {
             TopAppBar(
                 title = { Text(text = stringResource(id = R.string.services)) },  // Using string resource
-                colors = TopAppBarDefaults.centerAlignedTopAppBarColors(containerColor = Color.Blue.copy(alpha = 0.8f))
+                colors = TopAppBarDefaults.centerAlignedTopAppBarColors(containerColor = lightGreen)
             )
         }
     ) { paddingValues ->
@@ -143,7 +143,7 @@ fun ServiceCard(
         modifier = Modifier
             .fillMaxWidth()
             .padding(8.dp)
-            .clickable(onClick = onClick).background(color = Color.Blue.copy(alpha = 0.8f), shape = RoundedCornerShape(10.dp))
+            .clickable(onClick = onClick).background(color = lightGreen, shape = RoundedCornerShape(10.dp))
     ) {
         Row(
             modifier = Modifier.padding(20.dp),
