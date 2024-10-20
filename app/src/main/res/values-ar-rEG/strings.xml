@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currentLocation">الموقع الحالي</string>
+    <string name="app_name">NativeMetrooApp</string>
+    <string name="helwan">حلوان</string>
+    <string name="ain_helwan">عين حلوان</string>
+    <string name="helwan_university">جامعة حلوان</string>
+    <string name="wadi_hof">وادي حوف</string>
+    <string name="hadayek_helwan">حدائق حلوان</string>
+    <string name="el_maasara">المعصرة</string>
+    <string name="tora_el_asmant">طرة الأسمنت</string>
+    <string name="kozzika">كوتسيكا</string>
+    <string name="tora_el_balad">طرة البلد</string>
+    <string name="sakanat_el_maadi">سكنات المعادي</string>
+    <string name="maadi">المعادي</string>
+    <string name="hadayek_el_maadi">حدائق المعادي</string>
+    <string name="dar_el_salam">دار السلام</string>
+    <string name="el_zahraa">الزهراء</string>
+    <string name="mar_girgis">مار جرجس</string>
+    <string name="el_malek_el_saleh">الملك الصالح</string>
+    <string name="al_sayeda_zeinab">السيدة زينب</string>
+    <string name="saad_zaghloul">سعد زغلول</string>
+    <string name="sadat">السادات</string>
+    <string name="nasser">ناصر</string>
+    <string name="orabi">عرابي</string>
+    <string name="al_shohadaa">الشهداء</string>
+    <string name="ghamra">غمرة</string>
+    <string name="el_demerdash">الدمرداش</string>
+    <string name="manshiet_el_sadr">منشية الصدر</string>
+    <string name="kobri_el_qobba">كوبري القبة</string>
+    <string name="hammamat_el_qobba">حمامات القبة</string>
+    <string name="saray_el_qobba">سراي القبة</string>
+    <string name="hadayeq_el_zaitoun">حدائق الزيتون</string>
+    <string name="helmeyet_el_zaitoun">حلمية الزيتون</string>
+    <string name="el_matareyya">المطرية</string>
+    <string name="ain_shams">عين شمس</string>
+    <string name="ezbet_el_nakhl">عزبة النخل</string>
+    <string name="el_marg">المرج</string>
+    <string name="new_el_marg">المرج الجديدة</string>
+
+    <!-- This is a comment -->
+    <string name="shobra_el_kheima">شبرا الخيمة</string>
+    <string name="kolleyyet_el_zeraa">كلية الزراعة</string>
+    <string name="mezallat">مظلات</string>
+    <string name="khalafawy">خلفاوي</string>
+    <string name="st_teresa">سانت تيريز</string>
+    <string name="rod_el_farag">روض الفرج</string>
+    <string name="massara">المسرة</string>
+    <!--<string name="al_shohadaa">الشهداء</string>-->
+    <!--<string name="attaba">العتبه</string>-->
+    <string name="mohamed_naguib">محمد نجيب</string>
+    <!-- <string name="sadat">السادات</string>-->
+    <string name="opera">الأوبرا</string>
+    <string name="dokki">الدقي</string>
+    <string name="bohooth">البحوث</string>
+    <string name="cairo_university">جامعة القاهرة</string>
+    <string name="faisal">فيصل</string>
+    <string name="giza">الجيزة</string>
+    <string name="omm_el_masryeen">أم المصريين</string>
+    <string name="sakiat_mekki">ساقية مكي</string>
+    <string name="el_mounib">المنيب</string>
+
+
+    <string name="road_el_farg_corr">محور روض الفرج</string>
+    <string name="ring_road">طريق الدائري</string>
+    <string name="el_qumia">القومية</string>
+    <string name="el_bohy">البوهي</string>
+    <string name="imbaba">إمبابة</string>
+    <string name="sudan">السودان</string>
+    <string name="kitkat">الكيت كات</string>
+    <string name="safay_hegazy">صفاء حجازي</string>
+    <string name="maspero">ماسبيرو</string>
+    <string name="attaba">العتبه</string>
+    <string name="bab_el_shaaria">باب الشعريه</string>
+    <string name="el_geish">الجيش</string>
+    <string name="abdou_pasha">عبده باشا</string>
+    <string name="abbasia">عباسية</string>
+    <string name="cairo_fair">معرض القاهرة</string>
+    <string name="stadium">استاد</string>
+    <string name="kolleyet_el_banat">كلية البنات</string>
+    <string name="al_ahram">الأهرام</string>
+    <string name="haroun">هارون</string>
+    <string name="heliopolis">هيليوبوليس</string>
+    <string name="alf_maskan">ألف مسكن</string>
+    <string name="nadi_el_shams">نادي الشمس</string>
+    <string name="al_nozha">النزهة</string>
+    <string name="hesham_barkat">هشام بركات</string>
+    <string name="qubaa">قباء</string>
+    <string name="omar_ebn_el_khattab">عمر بن الخطاب</string>
+    <string name="el_hayikstep">الهايكستب</string>
+    <string name="adly_mansour">عدلي منصور</string>
+    <string name="enter_number_of_tickets">أدخل عدد التذاكر</string>
+    <string name="tawfikia">التوفيقية</string>
+    <string name="wadi_elnail">وادي النيل</string>
+    <string name="gamate_ldawel">جامعة الدول</string>
+    <string name="bolaq_eldakror">بولاق الدكرور</string>
+    <string-array name="kitkat_cairo_university_line">
+        <item>الكيت كات</item>
+        <item>التوفيقية</item>
+        <item>وادي النيل</item>
+        <item>جامعة الدول</item>
+        <item>بولاق الدكرور</item>
+        <item>جامعة القاهرة</item>
+    </string-array>
+    <string-array name="metro_line1">
+        <item>حلوان</item>
+        <item>عين حلوان</item>
+        <item>جامعة حلوان</item>
+        <item>وادي حوف</item>
+        <item>حدائق حلوان</item>
+        <item>المعصرة</item>
+        <item>طرة الأسمنت</item>
+        <item>كوتسيكا</item>
+        <item>طرة البلد</item>
+        <item>سكنات المعادي</item>
+        <item>المعادي</item>
+        <item>حدائق المعادي</item>
+        <item>دار السلام</item>
+        <item>الزهراء</item>
+        <item>مار جرجس</item>
+        <item>الملك الصالح</item>
+        <item>السيدة زينب</item>
+        <item>سعد زغلول</item>
+        <item>السادات</item>
+        <item>ناصر</item>
+        <item>عرابي</item>
+        <item>الشهداء</item>
+        <item>غمرة</item>
+        <item>الدمرداش</item>
+        <item>منشية الصدر</item>
+        <item>كوبري القبة</item>
+        <item>حمامات القبة</item>
+        <item>سراي القبة</item>
+        <item>حدائق الزيتون</item>
+        <item>حلمية الزيتون</item>
+        <item>المطرية</item>
+        <item>عين شمس</item>
+        <item>عزبة النخل</item>
+        <item>المرج</item>
+        <item>المرج الجديدة</item>
+    </string-array>
+    <string-array name="metro_line2">
+        <item>شبرا الخيمة</item>
+        <item>كلية الزراعة</item>
+        <item>مظلات</item>
+        <item>خلفاوي</item>
+        <item>سانت تيريز</item>
+        <item>روض الفرج</item>
+        <item>المسرة</item>
+        <item>الشهداء</item>
+        <item>العتبة</item>
+        <item>محمد نجيب</item>
+        <item>السادات</item>
+        <item>الأوبرا</item>
+        <item>الدقي</item>
+        <item>البحوث</item>
+        <item>جامعة القاهرة</item>
+        <item>فيصل</item>
+        <item>الجيزة</item>
+        <item>أم المصريين</item>
+        <item>ساقية مكي</item>
+        <item>المنيب</item>
+    </string-array>
+    <string-array name="metro_line3">
+        <item>محور روض الفرج</item>
+        <item>طريق الدائري</item>
+        <item>القومية</item>
+        <item>البوهي</item>
+        <item>إمبابة</item>
+        <item>السودان</item>
+        <item>الكيت كات</item>
+        <item>صفاء حجازي</item>
+        <item>ماسبيرو</item>
+        <item>ناصر</item>
+        <item>العتبه</item>
+        <item>باب الشعريه</item>
+        <item>الجيش</item>
+        <item>عبده باشا</item>
+        <item>عباسية</item>
+        <item>معرض القاهرة</item>
+        <item>استاد</item>
+        <item>كلية البنات</item>
+        <item>الأهرام</item>
+        <item>هارون</item>
+        <item>هيليوبوليس</item>
+        <item>ألف مسكن</item>
+        <item>نادي الشمس</item>
+        <item>النزهة</item>
+        <item>هشام بركات</item>
+        <item>قباء</item>
+        <item>عمر بن الخطاب</item>
+        <item>الهايكستب</item>
+        <item>عدلي منصور</item>
+    </string-array>
+    <string name="enable_service_text">لتحسين تجربتك، قم بتمكين خدمات الموقع الخاصة بك.</string>
+    <string name="better_experience">لتحسين تجربتك، </string>
+    <string name="enable_location_services">قم بتفعيل خاصية تحديد المواقع  .</string>
+    <string name="LocationServicesDisabled">من فضلك فعل خدمة تحديد المواقع</string>
+    <string name="welcome">مرحبا بكم في مترو القاهرة</string>
+    <string name="help">سوف نساعدك في الذهاب إلى أي مكان</string>
+    <string name="origin">البدايه</string>
+    <string name="select_your_origin">ابدأ رحلتك من محطة</string>
+    <string name="destination">الوجهة</string>
+    <string name="select_your_destination">حدد وجهتك</string>
+    <string name="show_my_route">معرفة الطريق</string>
+    <string name="search_nearest_station">البحث عن أقرب محطة \n وفقًا لوجهتك</string>
+    <string name="search">بحث</string>
+    <string name="no_stations_found">لم يتم العثور على محطات قريبة</string>
+    <string name="error">خطأ</string>
+    <string name="ok">حسنا</string>
+    <string name="confirm_your_destination_address">تأكيد عنوان وجهتك</string>
+    <string name="confirm_address">تأكيد العنوان</string>
+    <string name="enter_your_address">أدخل عنوانك</string>
+    <string name="please_provide_an_address">يرجى تقديم عنوان</string>
+    <string name="confirm">تأكيد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="show_on_map">عرض على الخريطة</string>
+    <string name="nearest_station">أقرب محطة لك</string>
+    <string name="km_away_with_value">يبعد حوالي</string>
+    <string name="km">كم</string>
+    <string name="meters">متر</string>
+    <string name="metro_line_1">الخط الأول</string>
+    <string name="metro_line_2">الخط الثاني</string>
+    <string name="metro_line_3">الخط الثالث</string>
+    <string name="cairo_university_branch">تفريعة جامعة القاهرة</string>
+    <string name="please_enter_valid_data">يرجى إدخال بيانات صحيحة</string>
+    <string name="take_direction_to">خذ اتجاه</string>
+    <string name="change_direction_to">غير الاتجاه إلى</string>
+    <string name="then_take_direction_to">ثم خذ اتجاه</string>
+    <string name="and_change_direction_at">وغيّر الاتجاه عند</string>
+    <string name="you_are_at">أنت في</string>
+    <string name="route_details">تفاصيل الطريق</string>
+    <string name="stations">محطات</string>
+    <string name="time">الوقت</string>
+    <string name="price">سعر</string>
+    <string name="from">من محطة</string>
+    <string name="to">الي محطة</string>
+    <string name="hour">ساعة</string>
+    <string name="hours">ساعات</string>
+    <string name="minute">دقيقة</string>
+    <string name="minutes">دقائق</string>
+    <string name="and">و</string>
+    <string name="number_of_stations">عدد المحطات</string>
+    <string name="ticket_price">سعر التذكرة للفرد</string>
+    <string name="direction">تفاصيل الاتجاهات</string>
+    <string name="view_route_details">عرض تفاصيل المسار</string>
+    <string name="route_saved_successfully">تم حفظ المسار بنجاح!</string>
+    <string name="failed_to_save_route">فشل في حفظ المسار</string>
+    <string name="transition_station">محطة تبادليه</string>
+    <string name="home">الرئيسيه</string>
+    <string name="services">الخدمات</string>
+    <string name="history">سجل الرحلات</string>
+    <string name="operatingHours">ساعات العمل:</string>
+    <string name="lastTrainDepartures">مغادرة القطار الأخير:</string>
+    <string name="intersections">التقاطعات:</string>
+    <string name="tripTime">وقت الرحلة:</string>
+    <string name="headway">الفاصل الزمني:</string>
+    <string name="trainFleetSize">حجم أسطول القطارات:</string>
+    <string name="maximumSpeed">السرعة القصوى:</string>
+    <string name="designCapacity">السعة التصميمية:</string>
+    <string name="trains">قطارات</string>
+    <string name="unitsEach">وحدات لكل قطار</string>
+    <string name="kmPerHour">كم/س</string>
+    <string name="passengersPerTrain">راكب/قطار</string>
+    <string name="metroTicketPricing">تسعير تذكرة المترو</string>
+    <string name="enterNumberOfStations">أدخل عدد المحطات:</string>
+    <string name="numberOfStationsHint">عدد المحطات</string>
+    <string name="numberOfTickets">عدد التذاكر</string>
+    <string name="totalPrice">السعر الإجمالي</string>
+    <string name="pounds">جنيه</string>
+    <string name="pricingInfoMoreThan23">أكثر من 23 محطة: 20 جنيه.</string>
+    <string name="pricingInfo17To23">من 17 إلى 23 محطة: 15 جنيه.</string>
+    <string name="pricingInfo10To16">من 10 إلى 16 محطة: 10 جنيه.</string>
+    <string name="pricingInfo1To9">من محطة واحدة إلى 9 محطات: 8 جنيه.</string>
+    <string name="metro_operation">تشغيل المترو</string>
+    <string name="metro_pricing">اسعار خدمات المترو</string>
+    <string name="line1">الخط 1</string>
+    <string name="line2">الخط 2</string>
+    <string name="line3">الخط 3</string>
+    <string name="operatingHoursLine1">يوميًا من 5:15 صباحًا إلى 1:00 صباحًا</string>
+    <string name="operatingHoursLine2">يوميًا من 5:15 صباحًا إلى حوالي 12:00 صباحًا</string>
+    <string name="operatingHoursLine3">يوميًا من 5:00 صباحًا إلى 12:00 صباحًا</string>
+    <string name="lastTrainDepartureLine1">محطة حلوان: 11:40 مساءً، محطة المرج الجديدة: 11:45 مساءً</string>
+    <string name="lastTrainDepartureLine2">محطة شبرا الخيمة: 11:35 مساءً، محطة المنيب: 11:35 مساءً</string>
+    <string name="lastTrainDepartureLine3">محطة عدلي منصور: 11:15 مساءً، محطة العتبة: 11:55 مساءً</string>
+    <string name="intersectionsLine1">محطة أنور السادات: يتقابل مع الخط 2 في 12:15 صباحًا، محطة جمال عبد الناصر: يتقابل مع الخط 3 في 12:10 صباحًا</string>
+    <string name="intersectionsLine2">محطة أنور السادات: يتقابل مع الخط 1 في 12:00 صباحًا</string>
+    <string name="tripTimeLine1">من محطة حلوان إلى محطة المرج الجديدة (والعكس): 79 دقيقة</string>
+    <string name="tripTimeLine2">من محطة شبرا الخيمة إلى محطة المنيب (والعكس): 38 دقيقة</string>
+    <string name="tripTimeLine3">من محطة العتبة إلى محطة عدلي منصور (والعكس): 37 دقيقة</string>
+    <string name="headwayLine1">4 دقائق طوال اليوم</string>
+    <string name="headwayLine2">2.45-3 دقائق طوال اليوم</string>
+    <string name="headwayLine3">6.5 دقائق من 7 صباحًا إلى 9 مساءً، 11 دقيقة من 9 مساءً حتى نهاية الخدمة</string>
+    <string name="noSavedStations">لم يتم العثور على محطات محفوظة</string>
+    <string name="history_screen_title">شاشة المحفوظات</string>
+    <string name="no_trips_saved">لا توجد رحلات محفوظة حتى الآن</string>
+    <string name="view_saved_trips">عرض الرحلات المحفوظة</string>
+
+</resources>

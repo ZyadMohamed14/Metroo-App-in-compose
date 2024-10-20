@@ -1,0 +1,298 @@
+<resources>
+    <string name="app_name">NativeMetrooApp</string>
+    <!-- English Translations -->
+    <string name="helwan">Helwan</string>
+    <string name="ain_helwan">Ain Helwan</string>
+    <string name="helwan_university">Helwan University</string>
+    <string name="wadi_hof">Wadi Hof</string>
+    <string name="hadayek_helwan">Hadayek Helwan</string>
+    <string name="el_maasara">ElMaasara</string>
+    <string name="tora_el_asmant">Tora ElAsmant</string>
+    <string name="kozzika">Kozzika</string>
+    <string name="tora_el_balad">Tora ElBalad</string>
+    <string name="sakanat_el_maadi">Sakanat ElMaadi</string>
+    <string name="maadi">Maadi</string>
+    <string name="hadayek_el_maadi">Hadayek ElMaadi</string>
+    <string name="dar_el_salam">Dar ElSalam</string>
+    <string name="el_zahraa">ElZahraa</string>
+    <string name="mar_girgis">Mar Girgis</string>
+    <string name="el_malek_el_saleh">ElMalek ElSaleh</string>
+    <string name="al_sayeda_zeinab">AlSayeda Zeinab</string>
+    <string name="saad_zaghloul">Saad Zaghloul</string>
+    <string name="sadat">Sadat</string>
+    <string name="nasser">Nasser</string>
+    <string name="orabi">Orabi</string>
+    <string name="al_shohadaa">AlShohadaa</string>
+    <string name="ghamra">Ghamra</string>
+    <string name="el_demerdash">ElDemerdash</string>
+    <string name="manshiet_el_sadr">Manshiet ElSadr</string>
+    <string name="kobri_el_qobba">Kobri ElQobba</string>
+    <string name="hammamat_el_qobba">Hammamat ElQobba</string>
+    <string name="saray_el_qobba">Saray ElQobba</string>
+    <string name="hadayeq_el_zaitoun">Hadayeq ElZaitoun</string>
+    <string name="helmeyet_el_zaitoun">Helmeyet ElZaitoun</string>
+    <string name="el_matareyya">ElMatareyya</string>
+    <string name="ain_shams">Ain Shams</string>
+    <string name="ezbet_el_nakhl">Ezbet ElNakhl</string>
+    <string name="el_marg">El-Marg</string>
+    <string name="new_el_marg">New ElMarg</string>
+
+    <string name="road_el_farg_corr">Road El Farg Corr</string>
+    <string name="ring_road">Ring Road</string>
+    <string name="el_qumia">El Qumia</string>
+    <string name="el_bohy">El Bohy</string>
+    <string name="imbaba">Imbaba</string>
+    <string name="sudan">Sudan</string>
+    <string name="kitkat">KitKat</string>
+    <string name="safay_hegazy">Safay Hegazy</string>
+    <string name="maspero">Maspero</string>
+
+    <string name="attaba">Attaba</string>
+    <string name="bab_el_shaaria">Bab El Shaaria</string>
+    <string name="el_geish">El Geish</string>
+    <string name="abdou_pasha">Abdou Pasha</string>
+    <string name="abbasia">Abbasia</string>
+    <string name="cairo_fair">Cairo Fair</string>
+    <string name="stadium">Stadium</string>
+    <string name="kolleyet_el_banat">Kolleyet El-Banat</string>
+    <string name="al_ahram">Al Ahram</string>
+    <string name="haroun">Haroun</string>
+    <string name="heliopolis">Heliopolis</string>
+    <string name="alf_maskan">Alf Maskan</string>
+    <string name="nadi_el_shams">Nadi El Shams</string>
+    <string name="al_nozha">Al Nozha</string>
+    <string name="hesham_barkat">Hesham Barkat</string>
+    <string name="qubaa">Qubaa</string>
+    <string name="omar_ebn_el_khattab">Omar Ebn El Khattab</string>
+    <string name="el_hayikstep">El Hayikstep</string>
+    <string name="adly_mansour">Adly Mansour</string>
+
+    <string name="shobra_el_kheima">Shobra ElKheima</string>
+    <string name="kolleyyet_el_zeraa">Kolleyyet ElZeraa</string>
+    <string name="mezallat">Mezallat</string>
+    <string name="khalafawy">Khalafawy</string>
+    <string name="st_teresa">St. Teresa</string>
+    <string name="rod_el_farag">Rod ElFarag</string>
+    <string name="massara">Massara</string>
+   <!-- <string name="al_shohadaa">AlShohadaa</string>-->
+   <!-- <string name="attaba">Attaba</string>-->
+    <string name="mohamed_naguib">Mohamed Naguib</string>
+   <!-- <string name="sadat">Sadat</string>-->
+    <string name="opera">Opera</string>
+    <string name="dokki">Dokki</string>
+    <string name="bohooth">Bohooth</string>
+    <string name="cairo_university">Cairo University</string>
+    <string name="faisal">Faisal</string>
+    <string name="giza">Giza</string>
+    <string name="omm_el_masryeen">Omm ElMasryeen</string>
+    <string name="sakiat_mekki">Sakiat Mekki</string>
+    <string name="el_mounib">ElMounib</string>
+
+    <string name="tawfikia">Tawfikia</string>
+    <string name="wadi_elnail">Wadi ElNail</string>
+    <string name="gamate_ldawel">Gamat ElDawel</string>
+    <string name="bolaq_eldakror">Bolaq ElDakror</string>
+    <string name="currentLocation">Current Location</string>
+    <string name="enter_number_of_tickets">Enter Number of Tickets</string>
+    <string-array name="metro_line1">
+        <item>Helwan</item>
+        <item>Ain Helwan</item>
+        <item>Helwan University</item>
+        <item>Wadi Hof</item>
+        <item>Hadayek Helwan</item>
+        <item>ElMaasara</item>
+        <item>Tora ElAsmant</item>
+        <item>Kozzika</item>
+        <item>Tora ElBalad</item>
+        <item>Sakanat ElMaadi</item>
+        <item>Maadi</item>
+        <item>Hadayek ElMaadi</item>
+        <item>Dar ElSalam</item>
+        <item>ElZahraa</item>
+        <item>Mar Girgis</item>
+        <item>ElMalek ElSaleh</item>
+        <item>AlSayeda Zeinab</item>
+        <item>Saad Zaghloul</item>
+        <item>Sadat</item>
+        <item>Nasser</item>
+        <item>Orabi</item>
+        <item>AlShohadaa</item>
+        <item>Ghamra</item>
+        <item>ElDemerdash</item>
+        <item>Manshiet ElSadr</item>
+        <item>Kobri ElQobba</item>
+        <item>Hammamat ElQobba</item>
+        <item>Saray ElQobba</item>
+        <item>Hadayeq ElZaitoun</item>
+        <item>Helmeyet ElZaitoun</item>
+        <item>ElMatareyya</item>
+        <item>Ain Shams</item>
+        <item>Ezbet ElNakhl</item>
+        <item>El-Marg</item>
+        <item>New ElMarg</item>
+    </string-array>
+    <string-array name="metro_line2">
+        <item>Shobra ElKheima</item>
+        <item>Kolleyyet ElZeraa</item>
+        <item>Mezallat</item>
+        <item>Khalafawy</item>
+        <item>St. Teresa</item>
+        <item>Rod ElFarag</item>
+        <item>Massara</item>
+        <item>AlShohadaa</item>
+        <item>Attaba</item>
+        <item>Mohamed Naguib</item>
+        <item>Sadat</item>
+        <item>Opera</item>
+        <item>Dokki</item>
+        <item>Bohooth</item>
+        <item>Cairo University</item>
+        <item>Faisal</item>
+        <item>Giza</item>
+        <item>Omm ElMasryeen</item>
+        <item>Sakiat Mekki</item>
+        <item>ElMounib</item>
+    </string-array>
+    <string-array name="metro_line3">
+        <item>Road El Farg Corr</item>
+        <item>Ring Road</item>
+        <item>El Qumia</item>
+        <item>El Bohy</item>
+        <item>Imbaba</item>
+        <item>Sudan</item>
+        <item>KitKat</item>
+        <item>Safay Hegazy</item>
+        <item>Maspero</item>
+        <item>Nasser</item>
+        <item>Attaba</item>
+        <item>Bab El Shaaria</item>
+        <item>El Geish</item>
+        <item>Abdou Pasha</item>
+        <item>Abbasia</item>
+        <item>Cairo Fair</item>
+        <item>Stadium</item>
+        <item>Kolleyet El-Banat</item>
+        <item>Al Ahram</item>
+        <item>Haroun</item>
+        <item>Heliopolis</item>
+        <item>Alf Maskan</item>
+        <item>Nadi El Shams</item>
+        <item>Al Nozha</item>
+        <item>Hesham Barkat</item>
+        <item>Qubaa</item>
+        <item>Omar Ebn El Khattab</item>
+        <item>El Hayikstep</item>
+        <item>Adly Mansour</item>
+    </string-array>
+    <string-array name="kitkat_cairo_university_line">
+        <item>kitkat</item>
+        <item>tawfikia</item>
+        <item>wadi_elnail</item>
+        <item>gamate_ldawel</item>
+        <item>bolaq_eldakror</item>
+        <item>cairo_university</item>
+    </string-array>
+    <string name="enable_service_text">For a better experience, enable your location services.</string>
+    <string name="better_experience">For a better experience, </string>
+    <string name="enable_location_services">enable your location services.</string>
+    <string name="LocationServicesDisabled">Location Services Disabled</string>
+    <string name="welcome">Welcome To Cairo Metro</string>
+    <string name="help">We will Help You to Go Anywhere</string>
+    <string name="origin">Origin</string>
+    <string name="select_your_origin">Select Your Origin</string>
+    <string name="select_your_destination">Select Your Destination</string>
+    <string name="destination">Destination</string>
+    <string name="show_my_route">Show My Route</string>
+    <string name="search_nearest_station">Search Nearest Station \n According to Your Destination</string>
+    <string name="search">Search</string>
+    <string name="no_stations_found">No stations found nearby</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="confirm_your_destination_address">Confirm Your Destination Address</string>
+    <string name="confirm_address">Confirm Address</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="please_provide_an_address">Please Provide an Address</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="nearest_station">Nearest Station</string>
+    <string name="km_away_with_value">km away</string>
+    <string name="km"></string>
+    <string name="meters">meters</string>
+    <string name="metro_line_1">Metro Line 1</string>
+    <string name="metro_line_2">Metro Line 2</string>
+    <string name="metro_line_3">Metro Line 3</string>
+    <string name="cairo_university_branch">Cairo University Branch</string>
+    <string name="please_enter_valid_data">Please Enter Valid Data</string>
+    <string name="take_direction_to">Take Direction to</string>
+    <string name="change_direction_to">Change Direction to</string>
+    <string name="then_take_direction_to">Then Take Direction to</string>
+    <string name="and_change_direction_at">and Change Direction at</string>
+    <string name="you_are_at">You are At</string>
+    <string name="route_details">Route Details</string>
+    <string name="stations">Stations</string>
+    <string name="time">Time</string>
+    <string name="price">Price</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="and">and</string>
+    <string name="number_of_stations">Number of Stations</string>
+    <string name="ticket_price">Ticket Price</string>
+    <string name="direction">Direction</string>
+    <string name="view_route_details">View Route Details</string>
+    <string name="route_saved_successfully">Route saved successfully!</string>
+    <string name="failed_to_save_route">Failed to save Route</string>
+    <string name="transition_station">Transition Station</string>
+    <string name="home">Home</string>
+    <string name="services">Services</string>
+    <string name="history">History</string>
+    <string name="operatingHours">Operating Hours:</string>
+    <string name="lastTrainDepartures">Last Train Departures:</string>
+    <string name="intersections">Intersections:</string>
+    <string name="tripTime">Trip Time:</string>
+    <string name="headway">Headway:</string>
+    <string name="trainFleetSize">Train Fleet Size:</string>
+    <string name="maximumSpeed">Maximum Speed:</string>
+    <string name="designCapacity">Design Capacity:</string>
+    <string name="trains">trains</string>
+    <string name="unitsEach">units each</string>
+    <string name="kmPerHour">km/h</string>
+    <string name="passengersPerTrain">passengers/train</string>
+    <string name="metroTicketPricing">Metro Ticket Pricing</string>
+    <string name="enterNumberOfStations">Enter the number of stations:</string>
+    <string name="numberOfStationsHint">Number of Stations</string>
+    <string name="numberOfTickets">Number of Tickets</string>
+    <string name="totalPrice">Total Price</string>
+    <string name="pounds">pounds</string>
+    <string name="pricingInfoMoreThan23">More than 23 stations: 20 pounds.</string>
+    <string name="pricingInfo17To23">From 17 to 23 stations: 15 pounds.</string>
+    <string name="pricingInfo10To16">From 10 to 16 stations: 10 pounds.</string>
+    <string name="pricingInfo1To9">From one station to 9 stations: 8 pounds.</string>
+    <string name="metro_operation">Metro Operation</string>
+    <string name="metro_pricing">Metro Pricing</string>
+    <string name="line1">Line 1</string>
+    <string name="line2">Line 2</string>
+    <string name="line3">Line 3</string>
+    <string name="operatingHoursLine1">Daily from 5:15 AM to 1:00 AM</string>
+    <string name="operatingHoursLine2">Daily from 5:15 AM to approximately 12:00 AM</string>
+    <string name="operatingHoursLine3">Daily from 5:00 AM to 12:00 AM</string>
+    <string name="lastTrainDepartureLine1">Helwan Station: 11:40 PM, New Marg Station: 11:45 PM</string>
+    <string name="lastTrainDepartureLine2">Shubra El-Kheima Station: 11:35 PM, El-Moneeb Station: 11:35 PM</string>
+    <string name="lastTrainDepartureLine3">Adly Mansour Station: 11:15 PM, Attaba Station: 11:55 PM</string>
+    <string name="intersectionsLine1">Anwar Sadat Station: Meets Line 2 at 12:15 AM, Gamal Abdel Nasser Station: Meets Line 3 at 12:10 AM</string>
+    <string name="intersectionsLine2">Anwar El-Sadat Station: Meets Line 1 at 12:00 AM</string>
+    <string name="tripTimeLine1">Helwan Station to New Marg Station (and vice versa): 79 minutes</string>
+    <string name="tripTimeLine2">Shubra El-Kheima Station to El-Moneeb Station (and vice versa): 38 minutes</string>
+    <string name="tripTimeLine3">Attaba Station to Adly Mansour Station (and vice versa): 37 minutes</string>
+    <string name="headwayLine1">4 minutes throughout the day</string>
+    <string name="headwayLine2">2.45-3 minutes throughout the day</string>
+    <string name="headwayLine3">6.5 minutes from 7 AM to 9 PM, 11 minutes from 9 PM to end of service</string>
+    <string name="noSavedStations">No saved stations found</string>
+    <string name="history_screen_title">History Screen</string>
+    <string name="no_trips_saved">No trips saved yet</string>
+    <string name="view_saved_trips">View Saved Trips</string>
+</resources>
